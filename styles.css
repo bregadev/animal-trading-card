@@ -1,0 +1,47 @@
+img {
+    
+    width:300px;
+    height: 200px;
+    padding: 10px;
+}
+
+body {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #695349;
+    overflow-wrap: break-word;
+}
+
+.container{
+    display: flex;  
+    flex-wrap: wrap;
+    margin-left: 30%;
+    margin-right: 27%;
+    max-width: 310px;
+    height: auto;
+    padding: 2%;
+    border: 1px solid white;
+    background-color: #352924
+}
+
+.information{
+    font-style: italic;
+}
+.inner_container{
+    width: 290px;
+    padding: 10px;
+    border: 1px solid white;
+
+}
+ul span {
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+ul {
+    
+    padding: 0;
+    list-style: none;
+    font-size: 10pt;
+   
+}
